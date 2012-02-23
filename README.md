@@ -1,3 +1,3 @@
-My code from learn the Learn C the hard way book by Zed Shaw
+My code from the Learn C The Hard Way book by Zed Shaw
 
 http://c.learncodethehardway.org/
